@@ -1,0 +1,24 @@
+{
+  "name": "koa-301",
+  "version": "1.0.0",
+  "description": "Simple KoaJS application that preforms HTTP 301 redirects.",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmcorum/koa-301.git"
+  },
+  "author": "Brice Corum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmcorum/koa-301/issues"
+  },
+  "homepage": "https://github.com/bmcorum/koa-301#readme"
+}
